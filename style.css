@@ -20,7 +20,7 @@
     background: red;
 }
 
-.ex-2-square:hover {
+.ex-2-square:active {
     width: 100%;
 }
 
